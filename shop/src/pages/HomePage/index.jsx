@@ -1,9 +1,11 @@
+import Footer from '../../components/Footer';
 import NavBar from '../../components/NavBar';
 
 function HomePage() {
   return (
     <div>
-      <NavBar /> <h1>Home page</h1>
+      <h1>Home page</h1>
+      <p>Test</p>
     </div>
   );
 }
